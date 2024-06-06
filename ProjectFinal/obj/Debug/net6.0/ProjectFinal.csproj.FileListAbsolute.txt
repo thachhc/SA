@@ -1,0 +1,1168 @@
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\appsettings.json
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.staticwebassets.runtime.json
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.exe
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.deps.json
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.runtimeconfig.json
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.pdb
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfoInputs.cache
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfo.cs
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.CoreCompileInputs.cache
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.RazorAssemblyInfo.cache
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.RazorAssemblyInfo.cs
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.ProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectFinal.props
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectFinal.props
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectFinal.props
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\bundle\ProjectFinal.styles.css
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\projectbundle\ProjectFinal.bundle.scp.css
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\refint\ProjectFinal.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.pdb
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.genruntimeconfig.cache
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ref\ProjectFinal.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Humanizer.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\MessagePack.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Build.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Common.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.AssemblyReference.cache
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.CopyComplete
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\PtWeb\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\appsettings.json
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.staticwebassets.runtime.json
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.exe
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.deps.json
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.runtimeconfig.json
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.pdb
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Humanizer.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\MessagePack.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Build.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Common.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.AssemblyReference.cache
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfoInputs.cache
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfo.cs
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.CoreCompileInputs.cache
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.RazorAssemblyInfo.cache
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.RazorAssemblyInfo.cs
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.ProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectFinal.props
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectFinal.props
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectFinal.props
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\bundle\ProjectFinal.styles.css
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\projectbundle\ProjectFinal.bundle.scp.css
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.CopyComplete
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\refint\ProjectFinal.dll
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.pdb
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.genruntimeconfig.cache
+D:\2333\Software Architecture-T7\Seminar\Project Final\Project Final\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ref\ProjectFinal.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\appsettings.json
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.staticwebassets.runtime.json
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.exe
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.deps.json
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.runtimeconfig.json
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ProjectFinal.pdb
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Humanizer.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\MessagePack.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Build.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Common.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.AssemblyReference.cache
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfoInputs.cache
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfo.cs
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.CoreCompileInputs.cache
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.RazorAssemblyInfo.cache
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.RazorAssemblyInfo.cs
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.ProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectFinal.props
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectFinal.props
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectFinal.props
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\bundle\ProjectFinal.styles.css
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\scopedcss\projectbundle\ProjectFinal.bundle.scp.css
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectF.C6B352A1.Up2Date
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\refint\ProjectFinal.dll
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.pdb
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ProjectFinal.genruntimeconfig.cache
+D:\2333\Software Architecture-T7\Seminar\ProjectFinal\ProjectFinal\obj\Debug\net6.0\ref\ProjectFinal.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\appsettings.json
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ProjectFinal.staticwebassets.runtime.json
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ProjectFinal.exe
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ProjectFinal.deps.json
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ProjectFinal.runtimeconfig.json
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ProjectFinal.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ProjectFinal.pdb
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\MessagePack.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.AssemblyReference.cache
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfoInputs.cache
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfo.cs
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.RazorAssemblyInfo.cache
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.RazorAssemblyInfo.cs
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.ProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectFinal.props
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectFinal.props
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectFinal.props
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\scopedcss\bundle\ProjectFinal.styles.css
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\scopedcss\projectbundle\ProjectFinal.bundle.scp.css
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectF.C6B352A1.Up2Date
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\refint\ProjectFinal.dll
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.pdb
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ProjectFinal.genruntimeconfig.cache
+C:\Users\HungWah\Software Project Management\IDK\ProjectFinal-data\ProjectFinal\obj\Debug\net6.0\ref\ProjectFinal.dll

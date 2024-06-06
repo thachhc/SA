@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNetCore.Http
+@using Newtonsoft.Json
+@using ProjectFinal.Data;
+@using ProjectFinal.Services
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    //truy cập đối tượng ISession để có thể lưu trữ và truy xuất dữ liệu tạm thời trong suốt chu kỳ sống của một phiên làm việc(session)
+    var session = HttpContextAccessor.HttpContext.Session;
+    string jsoncart = session.GetString(CartService.CARTKEY); // đọc giá trị từ Session với key
+    int uniqueProductCount = 0;
+
+    if (!string.IsNullOrEmpty(jsoncart))
+    {
+        var cart = JsonConvert.DeserializeObject<List<CartItem>>(jsoncart); // chuyển đổi chuỗi JSON (jsoncart) thành một danh sách các đối tượng CartItem.
+        uniqueProductCount = cart.GroupBy(item => item.product.Id).Count();
+    }
+}
+
+
+<text class="nav-item cart-quantity" id="cart-quantity">
+    @if (uniqueProductCount > 0)
+    {
+        @("(" + uniqueProductCount + ")")
+    }
+    else
+    {
+        @("(0)")
+    }
+</text>
+
+
+@* <div class="nav-item" id="cart-quantity">
+    <a class="cart-quantity">
+        @if (uniqueProductCount > 0)
+        {
+            @("("+uniqueProductCount+")")
+        }
+        else
+        {
+            @("(0)")
+        }
+    </a>
+</div> *@

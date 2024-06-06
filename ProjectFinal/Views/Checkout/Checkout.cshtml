@@ -1,0 +1,133 @@
+﻿@using ProjectFinal.Data;
+@model ProjectFinal.Models.CheckoutViewModel
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+@if (Model.CartItems.Count > 0)
+{
+    decimal total = 0;
+    int stt = 1;
+
+    <div class="cart-container">
+        <table class="table">
+            <tr>
+                <th>#</th>
+                <th>Product</th>
+                <th>Image</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+            @foreach (var cartitem in Model.CartItems)
+            {
+                var thanhtien = cartitem.quantity * cartitem.product.Price;
+                decimal thanhtienDecimal = (decimal)thanhtien;
+                total += thanhtienDecimal;
+
+                <tr id="@($"row-{cartitem.product.Id}")">
+                    <td>@(stt++)</td>
+                    <td>@cartitem.product.Name</td>
+                    <td><img src="@cartitem.product.Image" alt="@cartitem.product.Name" style="max-width: 96px; max-height: 103px;" /></td>
+                    <td>$@($"{cartitem.product.Price:n0}")</td>
+                    <td id="@($"quantity-{cartitem.product.Id}")">@cartitem.quantity</td>
+                    @* <td>@($"{thanhtien:n0}")</td> *@
+                    <td id="@($"subtotal-{cartitem.product.Id}")">$@($"{thanhtien:n0}")</td>
+                </tr>
+            }
+            <tr>
+                <td colspan="4" class="text-right">Total amount</td>
+                <td id="total">$@total</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+
+        <hr class="my-4">
+
+        <div class="mt-4 text-center">
+            <h4>Recipient Information</h4>
+            <form id="recipient-form" class="mx-auto" asp-controller="Checkout" asp-action="Checkout" method="post">
+                <div class="form-group row">
+                    <label for="recipient-name" class="col-sm-3 col-form-label text-sm-right">Recipient's Name:</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="recipient-name" name="RecipientInfo.RecipientName" value="@Model.RecipientInfo.RecipientName" readonly required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="recipient-phone" class="col-sm-3 col-form-label text-sm-right">Recipient's Phone Number:</label>
+                    <div class="col-sm-9">
+                        <input type="tel" class="form-control" id="recipient-phone" name="RecipientInfo.RecipientPhone" value="@Model.RecipientInfo.RecipientPhone" readonly required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="recipient-address" class="col-sm-3 col-form-label text-sm-right">Recipient's Address:</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="recipient-address" name="RecipientInfo.RecipientAddress" value="@Model.RecipientInfo.RecipientAddress" readonly required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-12 text-center">
+                        <button type="submit" class="btn btn-success" id="payButton">Pay</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    @if (Model.PaymentSuccess == true)
+    {
+        <p class="alert alert-success text-center">Payment successful!</p>
+    }
+}
+else
+{
+    <p class="alert alert-danger text-center">Cart is empty</p> 
+}
+<a asp-controller="Cart" asp-action="Cart" class="btn btn-success">Back to Cart</a>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+@section Scripts {
+    <!-- Script xử lý sự kiện khi nhấn nút "Pay" -->
+    <script>
+        $(document).ready(function () {
+            $("#payButton").submit(function (event) {
+                // Ngăn chặn gửi form mặc định để sử dụng AJAX
+                event.preventDefault();
+
+                var recipientName = $("#recipient-name").val();
+                var recipientPhone = $("#recipient-phone").val();
+                var recipientAddress = $("#recipient-address").val();
+
+
+                // Gửi dữ liệu đến server bằng AJAX
+                $.ajax({
+                    type: "POST",
+                    url: "/checkout",
+                    data: {
+                        recipientName: recipientName,
+                        recipientPhone: recipientPhone,
+                        recipientAddress: recipientAddress
+                    },
+                    success: function (result) {
+                        if (result.success) {
+                            console.log("Payment successful!");
+                        } else {
+                            console.error("Payment failed.");
+                        }
+                    },
+                    error: function () {
+                        console.error("Error occurred while processing the payment.");
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+@* <h4>Debugging: Recipient Information from Cart</h4>
+<p>Recipient's Name: @Model.RecipientInfo.RecipientName</p>
+<p>Recipient's Phone Number: @Model.RecipientInfo.RecipientPhone</p>
+<p>Recipient's Address: @Model.RecipientInfo.RecipientAddress</p> *@
+

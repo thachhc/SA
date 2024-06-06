@@ -1,0 +1,195 @@
+﻿@using ProjectFinal.Data;
+@model List<ProjectFinal.Models.CartItem>
+@{
+    ViewData["Title"] = "Cart";
+}
+
+
+@if (Model.Count > 0)
+{
+    decimal total = 0;
+    int stt = 1;
+
+    <div class="cart-container">
+        <table class="table">
+            <tr>
+                <th>#</th>
+                <th>Product</th>
+                <th>Image</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+            @foreach (var cartitem in Model)
+            {
+                var thanhtien = cartitem.quantity * cartitem.product.Price;
+                decimal thanhtienDecimal = (decimal)thanhtien;
+                total += thanhtienDecimal;
+
+                <tr id="@($"row-{cartitem.product.Id}")">
+                    <td>@(stt++)</td>
+                    <td>@cartitem.product.Name</td>
+                    <td><img src="@cartitem.product.Image" alt="@cartitem.product.Name" style="max-width: 96px; max-height: 103px;" /></td>
+                    <td>$@($"{cartitem.product.Price:n0}")</td>
+                    @* <td><input asp-for="@cartitem.quantity" id="@($"quantity-{cartitem.product.Id}")" min="1" /></td> *@
+                    <td>
+                        <div class="quantity-input">
+                            <button type="button" class="btn btn-outline-secondary" onclick="decreaseQuantity('@($"quantity-{cartitem.product.Id}")')">-</button>
+                            <input asp-for="@cartitem.quantity" id="@($"quantity-{cartitem.product.Id}")" min="1"/>
+                            <button type="button" class="btn btn-outline-secondary" onclick="increaseQuantity('@($"quantity-{cartitem.product.Id}")')">+</button>
+                        </div>
+                    </td>
+                    @* <td>@($"{thanhtien:n0}")</td> *@
+                    <td id="@($"subtotal-{cartitem.product.Id}")">$@($"{thanhtien:n0}")</td>
+                    <td>
+                        <button class="btn btn-success updatecartitem"
+                                data-productid="@cartitem.product.Id">
+                            Update
+                        </button>
+                        <a asp-route="removecart" asp-route-productid="@cartitem.product.Id" class="btn btn-danger removecartitem" data-productid="@cartitem.product.Id">
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td colspan="4" class="text-right">Total amount</td>
+                <td id="total">$@total</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+
+        <hr class="my-4">
+
+        <div class="mt-4 text-center">
+            <h4>Recipient Information</h4>
+            <form id="recipient-form" class="mx-auto" method="get" asp-controller="Checkout" asp-action="Checkout">
+                <div class="form-group row">
+                    <label for="recipient-name" class="col-sm-3 col-form-label text-sm-right">Recipient's Name:</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="recipient-name" name="recipientName" required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="recipient-phone" class="col-sm-3 col-form-label text-sm-right">Recipient's Phone Number:</label>
+                    <div class="col-sm-9">
+                        <input type="tel" class="form-control" id="recipient-phone" name="recipientPhone" required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="recipient-address" class="col-sm-3 col-form-label text-sm-right">Recipient's Address:</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="recipient-address" name="recipientAddress" required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-12 text-center">
+                        <button type="submit" class="btn btn-success" id="checkout-button">Checkout</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    @section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".updatecartitem").click(function (event) {
+                event.preventDefault();
+                var id = $(this).attr("data-productid");
+                var quantity = $("#quantity-" + id).val();
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.RouteUrl("updatecart")",
+                        data: {
+                            id: id,
+                            quantity: quantity
+                        },
+                        success: function (result) {
+                            if (result.success) {
+                                $("#subtotal-" + id).text(`$${result.subtotal}`); // Update subtotal
+                                $("#total").text(`$${result.total}`); // Update total
+                            } else {
+                                
+                                console.error("Failed to update cart item.");
+                            }
+                        },
+                        error: function () {
+                            console.error("Error occurred while processing the request.");
+                        }
+                    });
+                });
+
+                $(".removecartitem").click(function (event) {
+                    event.preventDefault();
+                    var id = $(this).data("productid");
+                    console.log("Clicked on remove button with id: " + id);
+                    $.ajax({
+                        type: "GET",
+                        url: "/removecart/" + id,
+                        success: function (result) {
+                            if (result.success) {
+                                $("#row-" + id).remove(); // Remove the row from the table
+                                $("#total").text(`$${result.total.toFixed(0)}`); // Update total
+                                $("#cart-quantity").text(`(${result.uniqueProductCount})`); // Update unique product count
+                                handleEmptyCart(result.uniqueProductCount);
+                            } else {
+                                console.error("Failed to remove item from the cart.");
+                            }
+                        },
+                        error: function () {
+                            console.error("Error occurred while processing the request.");
+                        }
+                    });
+                });
+
+
+                $("#checkout-button").click(function (event) {
+                    var recipientName = $("#recipient-name").val();
+                    var recipientPhone = $("#recipient-phone").val();
+                    var recipientAddress = $("#recipient-address").val();
+
+                    $.ajax({
+                        type: "GET",
+                        url: "/checkout",
+                        data: {
+                            recipientName: recipientName,
+                            recipientPhone: recipientPhone,
+                            recipientAddress: recipientAddress
+                        },
+                        success: function (result) {
+                            console.error("Processed the request successfully.");
+                        },
+                        error: function () {
+                            console.error("Error occurred while processing the request.");
+                        }
+                    });
+                });
+
+                function handleEmptyCart(uniqueProductCount) {
+                    if (uniqueProductCount === 0) {
+                        $(".cart-container").html('<p class="alert alert-danger text-center">Cart is empty</p>');
+                    }
+                }
+
+            });
+            function increaseQuantity(inputId) {
+                var input = document.getElementById(inputId);
+                input.value = parseInt(input.value) + 1;
+            }
+
+            function decreaseQuantity(inputId) {
+                var input = document.getElementById(inputId);
+                var value = parseInt(input.value) - 1;
+                input.value = value >= 1 ? value : 1;
+            }
+        </script>
+    }
+}
+else
+{
+    <p class="alert alert-danger text-center">Cart is empty</p>
+}
+<a asp-controller="Home" asp-action="Index" class="btn btn-success">Continue shopping</a>

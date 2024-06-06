@@ -1,0 +1,141 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<ProjectFinal.Models.Product>
+
+
+<div class="features_items">
+    <!--features_items-->
+    <h2 class="title text-center">Features Items</h2>
+
+    @foreach (var p in Model)
+    {
+        <partial name="_Product" for="@p" />
+    }
+
+</div><!--features_items-->
+
+<div class="category-tab">
+    <!--category-tab-->
+    <div class="col-sm-12">
+        <ul class="nav nav-tabs">
+            <li class="active"><a href="#deple" data-toggle="tab">Dép Lê</a></li>
+            <li><a href="#giaycao" data-toggle="tab">Giày Cao</a></li>
+            <li><a href="#giaythethao" data-toggle="tab">Giày Thể Thao</a></li>
+            <li><a href="#giayboot" data-toggle="tab">Giày Boot</a></li>
+            <li><a href="#giayro" data-toggle="tab">Giày Rọ</a></li>
+        </ul>
+    </div>
+
+    <div class="tab-content">
+        @foreach (var category in ViewBag.Categories)
+        {
+            <div class="tab-pane fade @(category == ViewBag.FirstCategory ? "in active" : "")" id="@category.Name">
+                @foreach (var p in ViewBag.Products)
+                {
+                    if (p.CategoryId == category.Id)
+                    {
+                        <partial name="_ProductBelow" for="@p" />
+                    }
+                }
+            </div>
+        }
+    </div>
+</div><!--/category-tab-->
+    
+<div class="recommended_items">
+    <!--recommended_items-->
+    <h2 class="title text-center">recommended items</h2>
+    <div id="recommended-item-carousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/assets/images/home/recommend1-1.jpg" alt="" />
+                                <h2>$374</h2>
+                                <p>Giày Adidas Samba</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/assets/images/home/recommend2-2.jpg" alt="" />
+                                <h2>$106</h2>
+                                <p>Giày New Blance 530</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/assets/images/home/recommend3-3.jpg" alt="" />
+                                <h2>$111</h2>
+                                <p>Giày Lười Nam Zuciani</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/assets/images/home/recommend4.jpg" alt="" />
+                                <h2>$65</h2>
+                                <p>Giày Tây Derby Đông Hải</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/assets/images/home/recommend5.jpg" alt="" />
+                                <h2>$34</h2>
+                                <p>Giày thể thao ZUCIANI</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="~/assets/images/home/recommend6.jpg" alt="" />
+                                <h2>$32</h2>
+                                <p>Giày Sandal Rọ Đông Hải</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a class="left recommended-item-control" href="#recommended-item-carousel" data-slide="prev">
+            <i class="fa fa-angle-left"></i>
+        </a>
+        <a class="right recommended-item-control" href="#recommended-item-carousel" data-slide="next">
+            <i class="fa fa-angle-right"></i>
+        </a>
+    </div>
+</div><!--/recommended_items-->

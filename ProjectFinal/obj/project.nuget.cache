@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZIGCqkpS/gM=",
+  "dgSpecHash": "RC5GyCm8gbA=",
   "success": true,
-  "projectFilePath": "D:\\2333\\Software Architecture-T7\\Seminar\\ProjectFinal-data-hùng\\ProjectFinal-data\\ProjectFinal\\ProjectFinal.csproj",
+  "projectFilePath": "D:\\2333\\Software Architecture-T7\\Seminar\\ProjectFinal-data\\ProjectFinal\\ProjectFinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huynh Thach\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Huynh Thach\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

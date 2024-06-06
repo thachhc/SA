@@ -6,6 +6,7 @@ using ProjectFinal.Models;
 using System.Text.Encodings.Web;
 using System.Text;
 using ProjectFinal.Data;
+using ProjectFinal.Services;
 
 namespace ProjectFinal.Controllers
 {
@@ -14,15 +15,18 @@ namespace ProjectFinal.Controllers
 		private readonly SignInManager<AppUser> _signInManager;
 		private readonly UserManager<AppUser> _userManager;
 		private readonly AppDBContext _Context;
+        private readonly IAppUserFactory _appUserFactory;
 
-		public UserController(AppDBContext context, 
+        public UserController(AppDBContext context, 
 			SignInManager<AppUser> signInManager, 
-			UserManager<AppUser> userManager)
+			UserManager<AppUser> userManager,
+            IAppUserFactory appUserFactory)
 		{
 			_Context = context;
 			_signInManager = signInManager;
 			_userManager = userManager;
-		}
+            _appUserFactory = appUserFactory;
+        }
 
 		public IActionResult Index()
 		{
@@ -41,8 +45,8 @@ namespace ProjectFinal.Controllers
 								   //ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 			if (ModelState.IsValid)
 			{
-				var user = CreateUser();
-				user.FirstName = usermodel.FirstName;
+				var user = _appUserFactory.Create();
+                user.FirstName = usermodel.FirstName;
 				user.LastName = usermodel.LastName;
 				user.Address = usermodel.Address;
 				user.PhoneNumber = usermodel.PhoneNumber;
@@ -70,21 +74,6 @@ namespace ProjectFinal.Controllers
 				return View();
 			}
 			return View();
-		}
-
-
-		public AppUser CreateUser()
-		{
-			try
-			{
-				return Activator.CreateInstance<AppUser>();
-			}
-			catch
-			{
-				throw new InvalidOperationException($"Can't create an instance of '{nameof(AppUser)}'. " +
-					$"Ensure that '{nameof(AppUser)}' is not an abstract class and has a parameterless constructor, or alternatively " +
-					$"override the register page in /Areas/Identity/Pages/Account/Register.cshtml");
-			}
 		}
 
         public IActionResult Login()

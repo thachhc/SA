@@ -13,26 +13,31 @@ namespace ProjectFinal.Areas.Admin.Controllers
     [Area("Admin")]
     public class ProductsController : Controller
     {
-        private readonly IProductService _productService;
+        private readonly AppDBContext _context;
 
-        public ProductsController(IProductService productService)
+        public ProductsController(AppDBContext context)
         {
-            _productService = productService;
+            _context = context;
         }
 
+        // GET: Admin/Products
         public async Task<IActionResult> Index()
         {
-            return View(await _productService.GetProductsAsync());
+            var appDBContext = _context.Products.Include(p => p.Category);
+            return View(await appDBContext.ToListAsync());
         }
 
+        // GET: Admin/Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
+            if (id == null || _context.Products == null)
             {
                 return NotFound();
             }
 
-            var product = await _productService.GetProductByIdAsync(id.Value);
+            var product = await _context.Products
+                .Include(p => p.Category)
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (product == null)
             {
                 return NotFound();
@@ -41,41 +46,50 @@ namespace ProjectFinal.Areas.Admin.Controllers
             return View(product);
         }
 
+        // GET: Admin/Products/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = _productService.GetCategoriesSelectList();
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
             return View();
         }
 
+        // POST: Admin/Products/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Description,Price,Image,CategoryId")] Product product)
         {
             if (ModelState.IsValid)
             {
-                await _productService.AddProductAsync(product);
+                _context.Add(product);
+                await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = _productService.GetCategoriesSelectList();
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
             return View(product);
         }
 
+        // GET: Admin/Products/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
+            if (id == null || _context.Products == null)
             {
                 return NotFound();
             }
 
-            var product = await _productService.GetProductByIdAsync(id.Value);
+            var product = await _context.Products.FindAsync(id);
             if (product == null)
             {
                 return NotFound();
             }
-            ViewData["CategoryId"] = _productService.GetCategoriesSelectList();
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
             return View(product);
         }
 
+        // POST: Admin/Products/Edit/5
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Price,Image,CategoryId")] Product product)
@@ -89,11 +103,12 @@ namespace ProjectFinal.Areas.Admin.Controllers
             {
                 try
                 {
-                    await _productService.UpdateProductAsync(product);
+                    _context.Update(product);
+                    await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!_productService.ProductExists(product.Id))
+                    if (!ProductExists(product.Id))
                     {
                         return NotFound();
                     }
@@ -104,18 +119,21 @@ namespace ProjectFinal.Areas.Admin.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = _productService.GetCategoriesSelectList();
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
             return View(product);
         }
 
+        // GET: Admin/Products/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
+            if (id == null || _context.Products == null)
             {
                 return NotFound();
             }
 
-            var product = await _productService.GetProductByIdAsync(id.Value);
+            var product = await _context.Products
+                .Include(p => p.Category)
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (product == null)
             {
                 return NotFound();
@@ -124,13 +142,28 @@ namespace ProjectFinal.Areas.Admin.Controllers
             return View(product);
         }
 
+        // POST: Admin/Products/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            await _productService.DeleteProductAsync(id);
+            if (_context.Products == null)
+            {
+                return Problem("Entity set 'AppDBContext.Products'  is null.");
+            }
+            var product = await _context.Products.FindAsync(id);
+            if (product != null)
+            {
+                _context.Products.Remove(product);
+            }
+            
+            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-    }
 
+        private bool ProductExists(int id)
+        {
+          return (_context.Products?.Any(e => e.Id == id)).GetValueOrDefault();
+        }
+    }
 }

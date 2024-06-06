@@ -15,7 +15,12 @@ builder.Services.AddDbContext<AppDBContext>(options =>
 builder.Services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = false)
 	.AddEntityFrameworkStores<AppDBContext>();
 
+
+
+// Design Pattern Facatory
 builder.Services.AddScoped<IAppUserFactory, AppUserFactory>();
+
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

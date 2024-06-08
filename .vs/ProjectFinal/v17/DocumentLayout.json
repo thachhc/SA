@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\views\\shared\\_productbelow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\views\\shared\\_productbelow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_ProductBelow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Views\\Shared\\_ProductBelow.cshtml",
+              "RelativeDocumentMoniker": "ProjectFinal\\Views\\Shared\\_ProductBelow.cshtml",
+              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Views\\Shared\\_ProductBelow.cshtml",
+              "RelativeToolTip": "ProjectFinal\\Views\\Shared\\_ProductBelow.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T15:10:31.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjectFinal\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ProjectFinal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAANAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-08T05:19:45.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsInterface.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Models\\ProductsInterface.cs",
               "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Models\\ProductsInterface.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "ProjectFinal\\Areas\\Admin\\Models\\ProductsInterface.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAUwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:15:03.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:15:03.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Controllers\\ProductsController.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Program.cs",
               "RelativeDocumentMoniker": "ProjectFinal\\Program.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Controllers\\CategoriesController.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Services\\CategoryService.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoriesInterface.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Models\\CategoriesInterface.cs",
               "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Models\\CategoriesInterface.cs",

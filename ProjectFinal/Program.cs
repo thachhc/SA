@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using ProjectFinal.Data;
 using ProjectFinal.Services;
@@ -12,6 +13,13 @@ builder.Services.AddDbContext<IdentityContext>(options =>
 builder.Services.AddDbContext<AppDBContext>(options =>
 	options.UseSqlServer(connectionString));
 
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+		.AddCookie(options =>
+		{
+			options.LoginPath = "/User/Login"; // Đường dẫn đến trang đăng nhập
+			options.AccessDeniedPath = "/Account/AccessDenied"; // Đường dẫn đến trang thông báo lỗi truy cập
+		});
+
 builder.Services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = false)
 	.AddEntityFrameworkStores<AppDBContext>();
 
@@ -24,6 +32,7 @@ builder.Services.AddScoped<IAppUserFactory, AppUserFactory>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
 
 
 // Add services to the container.

@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\views\\shared\\_productbelow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\views\\shared\\_productbelow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\areas\\admin\\models\\productsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\areas\\admin\\models\\productsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\areas\\admin\\models\\categoriesinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\areas\\admin\\models\\categoriesinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\areas\\admin\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\areas\\admin\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|c:\\users\\huynh thach\\documents\\github\\sa\\projectfinal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB154E4-A2F1-4345-BE7E-441606AE9AF8}|ProjectFinal\\ProjectFinal.csproj|solutionrelative:projectfinal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,100 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_ProductBelow.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Views\\Shared\\_ProductBelow.cshtml",
-              "RelativeDocumentMoniker": "ProjectFinal\\Views\\Shared\\_ProductBelow.cshtml",
-              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Views\\Shared\\_ProductBelow.cshtml",
-              "RelativeToolTip": "ProjectFinal\\Views\\Shared\\_ProductBelow.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T15:10:31.891Z",
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "ProjectFinal\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "ProjectFinal\\Models\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:02:37.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectFinal\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjectFinal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T05:19:45.623Z",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ProjectFinal\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Models\\Order.cs",
+              "RelativeToolTip": "ProjectFinal\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:02:34.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ProjectFinal\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Models\\CartItem.cs",
+              "RelativeToolTip": "ProjectFinal\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:59:34.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ProjectFinal\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ProjectFinal\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwGsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:55:44.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductsInterface.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Models\\ProductsInterface.cs",
-              "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Models\\ProductsInterface.cs",
-              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Models\\ProductsInterface.cs",
-              "RelativeToolTip": "ProjectFinal\\Areas\\Admin\\Models\\ProductsInterface.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwA4AAAAAAAAA",
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "ProjectFinal\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Services\\CartService.cs",
+              "RelativeToolTip": "ProjectFinal\\Services\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:15:03.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProjectFinal\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:15:00.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectFinal\\Program.cs",
-              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Program.cs",
-              "RelativeToolTip": "ProjectFinal\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:12:39.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "ProjectFinal\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAowEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:12:14.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Services\\CategoryService.cs",
-              "RelativeToolTip": "ProjectFinal\\Areas\\Admin\\Services\\CategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:12:05.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriesInterface.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Models\\CategoriesInterface.cs",
-              "RelativeDocumentMoniker": "ProjectFinal\\Areas\\Admin\\Models\\CategoriesInterface.cs",
-              "ToolTip": "C:\\Users\\Huynh Thach\\Documents\\GitHub\\SA\\ProjectFinal\\Areas\\Admin\\Models\\CategoriesInterface.cs",
-              "RelativeToolTip": "ProjectFinal\\Areas\\Admin\\Models\\CategoriesInterface.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:11:26.819Z"
+              "WhenOpened": "2024-06-13T05:49:56.755Z",
+              "EditorCaption": ""
             }
           ]
         }

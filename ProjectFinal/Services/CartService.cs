@@ -31,5 +31,16 @@ namespace ProjectFinal.Services
             string jsoncart = JsonConvert.SerializeObject(cartItems);
             context.Session.SetString(CARTKEY, jsoncart);
         }
+        public decimal CalculateTotal(List<CartItem> cart)
+        {
+            ICartVisitor visitor = new CartTotalVisitor();
+            return cart.Sum(item => item.Accept(visitor));
+        }
+
+        public decimal CalculateSubtotal(CartItem cartItem)
+        {
+            ICartVisitor visitor = new CartTotalVisitor();
+            return cartItem.Accept(visitor);
+        }
     }
 }

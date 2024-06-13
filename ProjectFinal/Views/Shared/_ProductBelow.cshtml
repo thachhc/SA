@@ -11,8 +11,34 @@
 				<img src="@Model.Image" alt="" />
 				<h2>$@Model.Price</h2>
 				<p>@Model.Name</p>
-				<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+				<a href="#" class="btn btn-default add-to-cart" data-productid="@Model.Id"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 			</div>
 		</div>
 	</div>
 </div>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    $(".add-to-cart").click(function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+        event.stopImmediatePropagation();
+        var id = $(this).data("productid");
+        console.log("Clicked on add button with id: " + id);
+        $.ajax({
+            type: "POST",
+            url: "/addcart/" + id,
+            success: function (result) {
+                console.log("Response from server:", result);
+                if (result.success) {
+                    // Cập nhật số lượng loại sản phẩm trong giỏ hàng
+                    $("#cart-quantity").text(`(${result.uniqueProductCount})`);
+                } else {
+                    console.error("Error occurred while adding to the cart.");
+                }
+            },
+            error: function () {
+                console.error("Error occurred while adding to the cart.");
+            }
+        });
+    });
+</script>

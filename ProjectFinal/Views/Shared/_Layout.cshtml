@@ -60,7 +60,7 @@
 				<div class="row">
 					<div class="col-sm-4">
 						<div class="logo pull-left">
-							<a asp-action="Index" asp-controller="Home"><img src="~/assets/images/home/logo.png" alt="" /></a>
+							<a asp-area="" asp-action="Index" asp-controller="Home"><img src="~/assets/images/home/logo.png" alt="" /></a>
 						</div>
 						<div class="btn-group pull-right">
 							<div class="btn-group">
@@ -91,8 +91,8 @@
 							<ul class="nav navbar-nav">
 								<li><a href="#"><i class="fa fa-user"></i> Account</a></li>
 								<li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
-								<li><a asp-action="Checkout" asp-controller="Checkout"><i class="fa fa-crosshairs"></i> Checkout</a></li>
-								<li><a asp-action="Cart" asp-controller="Cart"><i class="fa fa-shopping-cart"></i>Cart @await Html.PartialAsync("_CartPartial")</a></li>
+								<li><a asp-area="" asp-action="Checkout" asp-controller="Checkout"><i class="fa fa-crosshairs"></i> Checkout</a></li>
+								<li><a asp-area="" asp-action="Cart" asp-controller="Cart"><i class="fa fa-shopping-cart"></i>Cart @await Html.PartialAsync("_CartPartial")</a></li>
 								<partial name="_LoginPartial" />
 							</ul>
 						</div>
@@ -121,26 +121,26 @@
 								<li class="dropdown">
 									<a href="#">Shop<i class="fa fa-angle-down"></i></a>
 									<ul role="menu" class="sub-menu">
-										<li><a href="shop.html">Products</a></li>
-										<li><a href="product-details.html">Product Details</a></li>
-										<li><a asp-action="Checkout" asp-controller="Checkout">Checkout</a></li>
-										<li><a asp-action="Cart" asp-controller="cart">Cart</a></li>
-										<li><a asp-action="Login" asp-controller="User">Login</a></li>
+										<li><a asp-area="" asp-action="Index" asp-controller="">Products</a></li>
+										<li><a asp-area="" asp-action="Checkout" asp-controller="Checkout">Checkout</a></li>
+										<li><a asp-area="" asp-action="Cart" asp-controller="cart">Cart</a></li>
+										<li><a asp-area="" asp-action="Login" asp-controller="User">Login</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
-									<a href="#">Blog<i class="fa fa-angle-down"></i></a>
+									<a>Admin<i class="fa fa-angle-down"></i></a>
 									<ul role="menu" class="sub-menu">
-										<li><a href="blog.html">Blog List</a></li>
-										<li><a href="blog-single.html">Blog Single</a></li>
+										<li><a asp-area="Admin" asp-controller="Products" asp-action="Index">Products</a></li>
+										<li><a asp-area="Admin" asp-controller="Categories" asp-action="Index">Categories</a></li>
 									</ul>
 								</li>
-								<li><a href="404.html">404</a></li>
-								<li><a href="contact-us.html">Contact</a></li>
+								@* <li><a asp-action="Index" asp-controller="Home">404</a></li>
+								<li><a asp-action="Index" asp-controller="Home">Contact</a></li> *@
+								
 							</ul>
 						</div>
 					</div>
-					<!--Sreach cần làm-->
+					<!--Sreach cần làm--> 
 					<div class="col-sm-3">
 						<div class="search_box pull-right">
 							<input type="text" placeholder="Search" />

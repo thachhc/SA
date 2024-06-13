@@ -55,8 +55,7 @@
               "RelativeToolTip": "ProjectFinal\\Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:02:34.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T06:02:34.46Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "ProjectFinal\\Models\\CartItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:59:34.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T05:59:34.094Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "ProjectFinal\\Controllers\\CartController.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAAAkwGsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:55:44.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T05:55:44.679Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "ProjectFinal\\Services\\CartService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:49:56.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T05:49:56.755Z"
             }
           ]
         }
